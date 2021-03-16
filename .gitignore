@@ -15,7 +15,6 @@
 *.so
 *.dylib
 *.dll
-*.dSYM
 
 # Fortran module files
 *.mod
@@ -35,3 +34,9 @@
 # txt files and label files
 *.txt
 *.labels
+
+# debug related files
+*.dSYM
+
+# iOS directory structure
+.DS_Store
